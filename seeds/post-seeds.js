@@ -2,15 +2,14 @@ const { Post } = require('../models');
 
 const postData = [
   {
-    title: 'ORM Mapping',
-    content: 'I have really loved learning about ORM.',
-    user_id: 1
-    
+    title: "Wordpress",
+    content: "I like that i can work with wordpress without coding.",
+    user_id: 1,
   },
   {
-    title: 'Why MVC is import',
-    content: 'MVC allows developers to maintain true separation of concerns.',
-    user_id: 2
+    title: "Why open source contributions is important",
+    content: "It allows develop to have a deep knowledge of git",
+    user_id: 2,
   },
   {
     title: 'Authentication vs. Authorization',
